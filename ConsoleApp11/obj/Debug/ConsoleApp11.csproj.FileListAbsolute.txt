@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\ConsoleApp11\bin\Debug\ConsoleApp11.exe.config
+C:\Users\UPN\Desktop\ConsoleApp11\bin\Debug\ConsoleApp11.exe
+C:\Users\UPN\Desktop\ConsoleApp11\bin\Debug\ConsoleApp11.pdb
+C:\Users\UPN\Desktop\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\ConsoleApp11\obj\Debug\ConsoleApp11.exe
+C:\Users\UPN\Desktop\ConsoleApp11\obj\Debug\ConsoleApp11.pdb
